@@ -1,0 +1,23 @@
+<div class="sub-container-100">
+    <h1>Termini e condizioni di vendita.</h1>
+    <p>
+        <b>Premesse</b><br>
+        Il sito www.stimaterreni.it ed il servizio in esso contenuto è offerto da Alessio Mozzino, libero professionista con sede legale in Giustenice (SV), in piazza Vittorio Veneto civico 2, sede operativa in Borgio Verezzi (SV), in via Giacomo Matteotti civico 173, codice fiscale MZZLSS96M30G605I, partita IVA 01782640096, posta elettronica certificata alessio.mozzino@pec.it, di seguito indicato come fornitore. Cliccando sul tasto "Acquista", posto nella pagina di acquisto del servizio, e completando la procedura di pagamento, confermi di aver preso visione e di accettare completamente le seguenti condizioni generali di utilizzo e di vendita, di seguito condizioni.<br><br>
+        <b>Disciplina contrattuale</b><br>
+        Compilando il moduli di ordinazione presente sul sito accetti che il rapporto tra te in qualità di utilizzatore ed il fornitore siano regolati dalle presenti condizioni. Ti raccomando pertanto, prima di effettuare un nuovo ordine, di leggere attentamente le seguenti condizioni. Il fornitore si riserva il diritto di modificare a proprio piacimento le seguenti condizioni.<br><br>
+        <b>Conclusione del contratto</b><br>
+        Il servizio richiesto attraverso l'apposito modulo presenti sul sito ha valore di proposta contrattuale e presuppone la tua completa e totale conoscenza delle presenti condizioni. Il presente contratto si intenderà concluso al termine della procedura di pagamento, ossia con l'evasione dell'ordine.<br><br>
+        <b>Adempimenti contabili</b><br>
+        Dovendo far fronte ad una serie di adempimenti contabili e fiscali, vale a dire emissione di regolare fattura per ogni ordine evaso il fornitore è tenuto a richiedere, in fase di ordinazione, gli appositi dati fiscali, vale a dire: nome, cognome, ragione sociale e legale rappresentante (in caso di società), provincia, comune, indirizzo e numero civico, codice fiscale e partita IVA. Qualora i dati forniti dall'utente in fase di ordinazione non siano sufficienti ad emettere regolare fattura fiscale il fornitore potrà richiedere dati aggiuntivi.<br>
+        Il fornitore è tenuto alla raccolta dei dati fiscali di ogni utente che richieda il servizio, solamente per procedere con i relativi adempimenti contabili; il tutto verrà effettuato nel rispetto della privacy di ogni utente. Nel caso in cui, per diverse ragioni o motivazioni, i dati fiscali dell'utente che abbia già effettuato ordini sul sito subiscano delle variazioni, l'utente stesso è tenuto ad informare il fornitore affinchè vengano modificati; in questo modo i dati necessari per gli adempimenti contabili saranno sempre corretti ed aggiornati.<br><br>
+        <b>Prezzi, modalità di pagamento e fatturazione</b><br>
+        Il prezzo del servizio è fissato in euro 24,95 per valutazione, vale a dire per singolo terreno di cui è richiesta una valutazione. Al fornitore è concessa la facoltà di variare i prezzi a proprio piacimento.<br>
+        Il metodo di pagamento utilizzato dal fornitore è PayPal, che permette l'acquisto di beni e/o servizi attraverso carte di debito e di credito senza necessariamente essere cliente PayPal. Al termine della procedura di pagamento, vale a dire ad evasione dell'ordine, verrà emessa regolare fattura fiscale.<br><br>
+        <b>Scarico di responsabilità</b><br>
+        Il fornitore non si assume alcuna responsabilità sul risultato finale in fase di evasione dell'ordine. L'utente, durante la fase di ordinazione, dichiara di essere consapevole che il risultato del servizio non è il reale valore economico bensì un valore puramente indicativo, basato comunque su valori ufficiali (valori agricoli medi).<br><br>
+        <b>Tempi di evasione</b><br>
+        Essendo il servizio completamente automatizzato l'evasione degli ordini avviene conseguentemente alla procedura di pagamento. Non è prevista l'evasione di un ordine nel caso in cui, per qualsiasi motivo, l'utente non proceda al saldo.<br><br>
+        <b>Annullamento di un ordine</b><br>
+        Sarà facoltà dell'utente annullare uno o più ordini effettuati, anche per sbaglio, semplicemente cliccando su "Annulla e torna al sito di Alessio Mozzino" posto nella pagina del pagamento del servizio PayPal. L'annullamento non comporta la corresponsione dell'importo, nè prevede l'applicazione di costi aggiuntivi.
+    </p>
+</div>
